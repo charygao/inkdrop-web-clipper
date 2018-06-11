@@ -1,0 +1,13 @@
+{
+  "menu": [
+    {
+      "label": "Plugins",
+      "submenu": [
+        {
+          "label": "Clip Web Page...",
+          "command": "web-clipper:clip-page"
+        }
+      ]
+    }
+  ]
+}

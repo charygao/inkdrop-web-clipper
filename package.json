@@ -1,0 +1,13 @@
+{
+  "name": "web-clipper",
+  "main": "./lib/web-clipper",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [],
+  "repository": "https://github.com/jsartelle/inkdrop-web-clipper",
+  "license": "MIT",
+  "engines": {
+    "inkdrop": ">=3.7.3 <4.0.0"
+  },
+  "dependencies": {}
+}
