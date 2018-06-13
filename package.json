@@ -1,7 +1,7 @@
 {
   "name": "web-clipper",
   "main": "./lib/web-clipper",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Clip web pages into new notes",
   "keywords": [],
   "repository": "https://github.com/jsartelle/inkdrop-web-clipper",
