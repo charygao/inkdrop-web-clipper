@@ -2,7 +2,7 @@
   "name": "web-clipper",
   "main": "./lib/web-clipper",
   "version": "0.0.0",
-  "description": "A short description of your package",
+  "description": "Clip web pages into new notes",
   "keywords": [],
   "repository": "https://github.com/jsartelle/inkdrop-web-clipper",
   "license": "MIT",
