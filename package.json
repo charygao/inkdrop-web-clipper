@@ -1,13 +1,27 @@
 {
   "name": "web-clipper",
   "main": "./lib/web-clipper",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Clip web pages into new notes",
-  "keywords": [],
-  "repository": "https://github.com/jsartelle/inkdrop-web-clipper",
+  "keywords": [
+    "inkdrop",
+    "web",
+    "clipper",
+    "notes",
+    "readability"
+  ],
+  "repository": "https://github.com/libeanim/inkdrop-web-clipper",
   "license": "MIT",
   "engines": {
-    "inkdrop": ">=3.7.3 <4.0.0"
+    "inkdrop": "^4.x"
   },
-  "dependencies": {}
+  "dependencies": {},
+  "devDependencies": {
+    "babel-eslint": "^10.0.3",
+    "eslint": "^6.1.0",
+    "eslint-config-prettier": "^6.0.0",
+    "eslint-plugin-prettier": "^3.1.0",
+    "eslint-plugin-react": "^7.14.3",
+    "prettier": "^1.18.2"
+  }
 }
